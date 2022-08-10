@@ -12,10 +12,10 @@
 <h2 aling="left"> hipe </h2>
  
 
-      import(
+     import(
             "cotton"
             )
-      func showdown(){
+     func showdown(){
        cotton.Booom
       }
      go showdown....
