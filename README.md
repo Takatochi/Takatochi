@@ -8,6 +8,6 @@
 </h1>
 <p align="left"> <a href="https://twitter.com/ArthurJnr_www" target="blank"><img src="https://img.shields.io/twitter/follow/ArthurJnr_www?logo=twitter&style=for-the-badge" alt="Takatochi" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takatochi&show_icons=true&locale=en" alt="Takatochi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takatochi&show_icons=true&locale=en&theme=dark" alt="Takatochi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takatochi&show_icons=true&locale=en&layout=compact" alt="Takatochi"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takatochi&show_icons=true&locale=en&layout=compact&theme=dark" alt="Takatochi"/></p>
