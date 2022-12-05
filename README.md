@@ -15,7 +15,10 @@
             "cotton"
             )
      func showdown(){
-       cotton.Booom
+       cotton.Booom{
+       city:.... ,
+       what at this:...
+       }
       }
      go showdown....
 
