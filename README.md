@@ -13,7 +13,7 @@
             "cotton"
             )
      func showdown(){
-       cotton.Booom{
+        why{
        city:.... ,
        what at this:...
        }
